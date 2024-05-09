@@ -1,0 +1,6 @@
+api:
+  cepik:
+    url: http://localhost:9999
+  jpa:
+    hibernate:
+      ddl-auto: validate

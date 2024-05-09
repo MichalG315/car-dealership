@@ -1,0 +1,140 @@
+{
+  "data": [
+    {
+      "id": "5545675395589858",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "AUDI",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "A6",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. IMPORT INDYW",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2023-01-01",
+        "pojemnosc-skokowa-silnika": 1984,
+        "masa-wlasna": 1670,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "14"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/5545675395589858"
+      }
+    },
+    {
+      "id": "2009890057568575",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "HYUNDAI",
+        "kategoria-pojazdu": "13",
+        "typ": "PDE",
+        "model": "I30",
+        "wariant": "F5P61",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "NOWY ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2023-01-02",
+        "pojemnosc-skokowa-silnika": 998,
+        "masa-wlasna": 1321,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "14"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/2009890057568575"
+      }
+    },
+    {
+      "id": "6196440748089697",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "BMW",
+        "kategoria-pojazdu": "0",
+        "typ": "---",
+        "model": "3ER REIHE",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2023-01-02",
+        "pojemnosc-skokowa-silnika": 1991,
+        "masa-wlasna": 1475,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "14"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/6196440748089697"
+      }
+    },
+    {
+      "id": "1108911639040750",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "HONDA",
+        "kategoria-pojazdu": "6",
+        "typ": "RH01",
+        "model": "CBR650RA",
+        "wariant": "1",
+        "rodzaj-pojazdu": "MOTOCYKL",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2023-01-02",
+        "pojemnosc-skokowa-silnika": 649,
+        "masa-wlasna": 208,
+        "rodzaj-paliwa": "BENZYNA",
+        "wojewodztwo-kod": "14"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/1108911639040750"
+      }
+    },
+    {
+      "id": "7055204331204764",
+      "type": "pojazdy",
+      "attributes": {
+        "marka": "AUDI",
+        "kategoria-pojazdu": "11111111",
+        "typ": "---",
+        "model": "A3",
+        "wariant": "---",
+        "rodzaj-pojazdu": "SAMOCHÓD OSOBOWY",
+        "pochodzenie-pojazdu": "UŻYW. ZAKUPIONY W KRAJU",
+        "rok-produkcji": "FABRYCZNY",
+        "data-pierwszej-rejestracji-w-kraju": "2023-01-02",
+        "pojemnosc-skokowa-silnika": 1968,
+        "masa-wlasna": 1435,
+        "rodzaj-paliwa": "OLEJ NAPĘDOWY",
+        "wojewodztwo-kod": "14"
+      },
+      "links": {
+        "self": "https://api.cepik.gov.pl/pojazdy/7055204331204764"
+      }
+    }
+  ],
+  "meta": {
+    "json-ld-id": "/pojazdy?wojewodztwo=14&data-od=20230101&data-do=20240101&limit=5&page=1&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false",
+    "schema": "https://api.cepik.gov.pl/www/schema/vehicle.json",
+    "dc:title": "Lista pojazdów",
+    "schema:provider": "Ministerstwo Cyfryzacji",
+    "schema:datePublished": "2019-05-13",
+    "schema:dateModified": "2024-04-27",
+    "dc:description": "Lista pojazdów udostępnionych z bazy CEPiK",
+    "dc:language": "pl",
+    "sy:updatePeriod": "weekly",
+    "sy:updateFrequency": "1",
+    "sy:updateBase": "2024-05-04",
+    "schema:contentType": "application/json",
+    "schema:isPartOf": "https://api.cepik.gov.pl/pojazdy",
+    "count": 346015,
+    "page": 1,
+    "limit": 5,
+    "dc:rights": "brak",
+    "schema:keywords": "pojazdy, cepik, cep, dane techniczne, spalanie, samochody, autobusy, motocykle, daty rejestracji"
+  },
+  "links": {
+    "first": "https://api.cepik.gov.pl/pojazdy?wojewodztwo=14&data-od=20230101&data-do=20240101&limit=5&page=1&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false",
+    "self": "https://api.cepik.gov.pl/pojazdy?wojewodztwo=14&data-od=20230101&data-do=20240101&limit=5&page=1&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false",
+    "next": "https://api.cepik.gov.pl/pojazdy?wojewodztwo=14&data-od=20230101&data-do=20240101&limit=5&page=2&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false",
+    "last": "https://api.cepik.gov.pl/pojazdy?wojewodztwo=14&data-od=20230101&data-do=20240101&limit=5&page=69203&typ-daty=1&tylko-zarejestrowane=true&pokaz-wszystkie-pola=false"
+  }
+}
